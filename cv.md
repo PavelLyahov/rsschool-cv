@@ -53,22 +53,11 @@ In my free time, I study web development technologies on my own, for a better un
     * Independent study of various technologies.
 ### Expirience: 
 
-<table style="width: 100%;">
-  <tr>
-    <td align="left">A1QA</td>
-    <td align="right" >2 years, 2 months</td>
-    <td align="right">march 2021 - jul 2023</td>
-  </tr>
-</table>
+A1QA: mar 2021 - jul 2023
 
 ---
 
-<table style="width: 100%;">
-  <tr>
-    <td align="left">Project coordinator</td>
-    <td align="right" >7 months</td>
-  </tr>
-</table>
+Project coordinator: 7 months
 
 ---
 
@@ -84,12 +73,7 @@ integrated with SonarQube
 - Investigation and implementation of technologies and programs in the workflow
 
 ---
-<table style="width: 100%;">
-  <tr>
-    <td align="left">Project: Mobile Game</td>
-    <td align="right">6 month</td>
-  </tr>
-</table>
+Project: Mobile Game: 6 month
 
 ---
 ### Responsibilities: 
@@ -105,13 +89,7 @@ Technologies: Java, Selenium, WebSocket, TestNG, Allure, Feign,
 Gradle, Git, Jenkins CI/CD, TestRail, Jira, Confluence
 
 ---
-
-<table style="width: 100%;">
-  <tr>
-    <td align="left">Project: Web application</td>
-    <td align="right">1 year</td>
-  </tr>
-</table>
+Project: Web application: 1 year
 
 ---
 
